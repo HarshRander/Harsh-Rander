@@ -26,21 +26,21 @@ contributions in this field.
 
 ## Skills
 
-- Python (RDKit, pandas, Matplotlib, NumPy etc.)
-- PyMol
-- Modeller
-- M.O.E
-- AutoDock Tools and Vina
-- MD simulations
-- Caver
-- LaTeX
+- Python (RDKit, pandas, Matplotlib, NumPy etc.) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- PyMol ![PyMOL](https://img.shields.io/badge/PyMOL-Molecular_Visualization-blue?style=for-the-badge)
+- Modeller ![MODELLER](https://img.shields.io/badge/MODELLER-Homology_Modeling-green?style=for-the-badge)
+- M.O.E ![MOE](https://img.shields.io/badge/MOE-Computational_Chemistry-purple?style=for-the-badge)
+- AutoDock Tools and Vina ![AutoDock](https://img.shields.io/badge/AutoDock-Molecular_Docking-orange?style=for-the-badge)
+- MD simulations ![GROMACS](https://img.shields.io/badge/GROMACS-purple?style=for-the-badge)
+- Caver ![Caver](https://img.shields.io/badge/Caver-Tunnel_Analysis-darkblue?style=for-the-badge)
+- LaTeX ![LaTeX](https://img.shields.io/badge/LaTeX-Scientific_Documentation-green?style=for-the-badge&logo=latex)
 
 ---
 
 ## Operating System
 
-- Linux
-- Windows
+- Linux ![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
+- Windows ![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=for-the-badge&logo=windows)
 
 ## Current Interests
 
