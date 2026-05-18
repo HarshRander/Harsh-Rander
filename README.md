@@ -1,5 +1,4 @@
 # Harsh-Rander
-My GitHub Profile README
 # Hi, I'm Harsh Rander 👋
 
 ## About Me
@@ -27,7 +26,7 @@ contributions in this field.
 
 ## Skills
 
-- Python
+- Python (RDKit, pandas, Matplotlib, NumPy etc.)
 - PyMol
 - Modeller
 - M.O.E
@@ -46,7 +45,7 @@ contributions in this field.
 ## Current Interests
 
 - ML / AI in Healthcare
-- Drug Discovery
+- Computer Aided Drug Discovery
 - Protein-Ligand Interactions
 - Computational Biology and Bioinformatics
 
