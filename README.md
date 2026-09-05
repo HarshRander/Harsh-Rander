@@ -31,7 +31,7 @@ contributions in this field.
 - Modeller ![MODELLER](https://img.shields.io/badge/MODELLER-Homology_Modeling-green?style=for-the-badge)
 - M.O.E ![MOE](https://img.shields.io/badge/MOE-Computational_Chemistry-purple?style=for-the-badge)
 - AutoDock Tools and Vina ![AutoDock](https://img.shields.io/badge/AutoDock-Molecular_Docking-orange?style=for-the-badge)
-- MD simulations ![GROMACS](https://img.shields.io/badge/GROMACS-purple?style=for-the-badge)
+- MD simulations ![GROMACS](https://img.shields.io/badge/GROMACS-purple?style=for-the-badge) [![AMBER](https://img.shields.io/badge/AMBER-orange?style=for-the-badge)](https://ambermd.org/) [![Enhanced MD](https://img.shields.io/badge/Enhanced_MD_Simulation-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Molecular_dynamics)
 - Caver ![Caver](https://img.shields.io/badge/Caver-Tunnel_Analysis-darkblue?style=for-the-badge)
 - LaTeX ![LaTeX](https://img.shields.io/badge/LaTeX-Scientific_Documentation-green?style=for-the-badge&logo=latex)
 
@@ -45,6 +45,7 @@ contributions in this field.
 ## Current Interests
 
 - ML / AI in Healthcare
+- Enhanced Molecular Dynamics Simulation
 - Computer Aided Drug Discovery
 - Protein-Ligand Interactions
 - Computational Biology and Bioinformatics
@@ -69,6 +70,15 @@ solubility, and generating automated analytical reports.
     - Conducting a structure-based computational study on bacterial RNA polymerase to investigate antibiotic resistance mechanisms through mutation
 analysis, molecular docking, and structural modeling, with ongoing efforts
 toward molecular dynamics simulations.
+
+- Summer Project at IIT BHU (Varanasi). (May.’26 - July'26) [**Machine Learning Based Prediction Of Androgen Receptor (AR) Toxicity Using Molecular
+Descriptors**]
+  - Under the guidance of Prof. Rajnish Kumar, Department of Pharmaceutical Engineering and Technology, Indian Institute of Technology (BHU), Varanasi
+    - During this internship, I Developed an end-to-end ML-QSAR pipeline using an 842-compound AR antagonist
+dataset, benchmarking seven molecular fingerprints and six ML classifiers. Applied leakage-free feature selection
+and Optuna-based hyperparameter optimization, achieving 92.3 % accuracy and 0.847 MCC overall, with 0.896
+ROC-AUC under scaffold-split validation. Performed SHAP analysis for model interpretation and deployed the
+optimized model as a Flask web application for SMILES-based AR antagonist prediction.
 
 ## Connect With Me
 
