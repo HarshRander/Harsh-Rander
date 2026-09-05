@@ -28,6 +28,8 @@ contributions in this field.
 
 - Python (RDKit, pandas, Matplotlib, NumPy etc.) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - PyMol ![PyMOL](https://img.shields.io/badge/PyMOL-Molecular_Visualization-blue?style=for-the-badge)
+- Chimera [![ChimeraX](https://img.shields.io/badge/ChimeraX-purple?style=for-the-badge)](https://www.rbvi.ucsf.edu/chimerax/)
+- Unix [![Unix](https://img.shields.io/badge/Unix-black?style=for-the-badge)](https://www.unix.org/)
 - Modeller ![MODELLER](https://img.shields.io/badge/MODELLER-Homology_Modeling-green?style=for-the-badge)
 - M.O.E ![MOE](https://img.shields.io/badge/MOE-Computational_Chemistry-purple?style=for-the-badge)
 - AutoDock Tools and Vina ![AutoDock](https://img.shields.io/badge/AutoDock-Molecular_Docking-orange?style=for-the-badge)
