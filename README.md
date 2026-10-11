@@ -68,7 +68,7 @@ and confocal microscopy.
 calculating properties, applying drug-likeness filters, predicting aqueous
 solubility, and generating automated analytical reports.
 
-Website Link: https://harshrander.pythonanywhere.com/
+  Website Link: https://harshrander.pythonanywhere.com/
 - Summer Project at IIT Guwahati (Guwahati). (May.’25 - Current) [**Structure-Based Analysis of Non-RRDR Mutation–Mediated Rifampicin Resistance in Mycobacterium tuberculosis**]
   - Under the guidance of Dr. Shankar Prasad Kanaujia, Department of Biosciences and Bioengineering, Indian Institute of Technology Guwahati
     - Conducting a structure-based computational study on bacterial RNA polymerase to investigate antibiotic resistance mechanisms through mutation
@@ -84,7 +84,7 @@ and Optuna-based hyperparameter optimization, achieving 92.3 % accuracy and 0.84
 ROC-AUC under scaffold-split validation. Performed SHAP analysis for model interpretation and deployed the
 optimized model as a Flask web application for SMILES-based AR antagonist prediction.
 
-Website Link: https://artoxicity-prediction.onrender.com/
+  Website Link: https://artoxicity-prediction.onrender.com/
 
 ## Connect With Me
 
